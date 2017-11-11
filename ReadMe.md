@@ -8,6 +8,6 @@ $ ./a.out
 
 *Mouse click
 
-    left for start and right for arrow firing
+    left for start and right for firing arrow
 
 
